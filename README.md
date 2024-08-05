@@ -1,9 +1,12 @@
 <code>Próximo dia:</code>
     
-Onde parei? **Finalizando o processo e documentação**
-<code>
-Estou próximo de finalizar o defasio após finalizar toda a estrutura e conceitos, estarei adicionando breves anotações sobre todo o processo do desafio e o sumário de links de documentações que utilizei no processo.
-</code>
+Onde parei? **Documentação** <br>
+<code>Ficou pendente fazer a documentação do exercício com questões da parte teórica.</code>
+
+### 05/08
+O que eu fiz hoje? 
+
+* Finalizei o exercício/desafio em código.
 
 ### 04/08
 
