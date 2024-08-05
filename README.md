@@ -1,8 +1,20 @@
 <code>Próximo dia:</code>
     
-Onde parei? **Preparando os modelos**
+Onde parei? **Finalizando o processo e documentação**
+<code>
+Estou próximo de finalizar o defasio após finalizar toda a estrutura e conceitos, estarei adicionando breves anotações sobre todo o processo do desafio e o sumário de links de documentações que utilizei no processo.
+</code>
 
-### 31/07 - Tarde 
+### 04/08
+
+O que eu fiz hoje? 
+
+* Preparei os modelos de Machine Learning
+* Realiziei a Regressão Linear para o treinamento dos modelos.
+* Após chegar em uma Acurácia para os modelos de 'test' & 'train', fiz a Confusion Matrix baseado df de previsão. 
+* Implementei um função para adaptar esse modelo desenvolvido para - caso queira - aprendizados/desenvolvimentos futuros.
+
+### 31/07 
 
 O que eu fiz hoje?
 
