@@ -10,7 +10,7 @@ Estou próximo de finalizar o defasio após finalizar toda a estrutura e conceit
 O que eu fiz hoje? 
 
 * Preparei os modelos de Machine Learning
-* Realiziei a Regressão Linear para o treinamento dos modelos.
+* Realiziei a Logistic Regression para o treinamento dos modelos.
 * Após chegar em uma Acurácia para os modelos de 'test' & 'train', fiz a Confusion Matrix baseado df de previsão. 
 * Implementei um função para adaptar esse modelo desenvolvido para - caso queira - aprendizados/desenvolvimentos futuros.
 
